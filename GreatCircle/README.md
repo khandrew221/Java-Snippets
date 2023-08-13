@@ -1,1 +1,1 @@
-
+A class for storing and performing operations using a great circle, from a personal astronomy project. It throws several custom exceptions related to degenerate cases in the mathematical calculations.
